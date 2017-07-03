@@ -37,5 +37,5 @@ get_header(); ?>
 		</main><!-- #main -->
 	</div><!-- #primary -->
 </div><!-- .wrap -->
-<p1>Hello World><</p1>
+
 <?php get_footer();

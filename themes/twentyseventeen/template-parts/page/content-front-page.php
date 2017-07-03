@@ -34,7 +34,7 @@
 				<?php the_title( '<h2 class="entry-title">', '</h2>' ); ?>
 
 				<?php twentyseventeen_edit_link( get_the_ID() ); ?>
-<h1> Hello World 2! </h1>
+
 			</header><!-- .entry-header -->
 
 			<div class="entry-content">
